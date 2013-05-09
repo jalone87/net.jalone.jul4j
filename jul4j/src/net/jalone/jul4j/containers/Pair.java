@@ -1,4 +1,4 @@
-package net.jalone.jul4j.utils;
+package net.jalone.jul4j.containers;
 
 import java.io.Serializable;
 
